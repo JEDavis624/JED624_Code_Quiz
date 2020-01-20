@@ -25,4 +25,3 @@ var questions = [
       answer: "quotes"
     },
   ];
-module.exports=questions
