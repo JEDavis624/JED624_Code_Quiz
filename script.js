@@ -1,3 +1,2 @@
-const questions=require("./questions")
- console.log(questions)
- 
+const questions = require("./questions");
+
