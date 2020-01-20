@@ -33,7 +33,7 @@ for(i = 0; i < questions.length; i++){
   if(response === question[i].answer){
       // in here I put what happens if questions answered correctly
   }
-
+  
   else(response !== questions[i].answer){
     // in here put what happens if question is answered incorrectly
   }
